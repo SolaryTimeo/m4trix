@@ -14,6 +14,7 @@
 ```cs
         Install latest version of python from "https://python.org/downloads"
         Install the latest version of MATRIX
+        Extract with 7zip or winrar
         Just run "run.bat"
 ```
 
