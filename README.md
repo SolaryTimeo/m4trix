@@ -12,8 +12,9 @@
 
 ## Setup:
 ```cs
+        Install latest version of python from "https://python.org/downloads"
         Just run "run.bat"
 ```
 
 
-<h1 align="center">By Timeo</h1>
+<h1 align="center">By Timeo ©</h1>
