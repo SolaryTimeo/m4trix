@@ -13,6 +13,7 @@
 ## Setup:
 ```cs
         Install latest version of python from "https://python.org/downloads"
+        Install the latest version of MATRIX
         Just run "run.bat"
 ```
 
