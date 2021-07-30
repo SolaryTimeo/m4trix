@@ -19,4 +19,4 @@
 ```
 
 
-<h1 align="center">By Timeo ©</h1>
+<h1 align="center">By Timeo</h1>
